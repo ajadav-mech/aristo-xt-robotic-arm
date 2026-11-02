@@ -4,8 +4,6 @@
 
 [English](#english) · [Deutsch](#deutsch)
 
-![Hero image or GIF of the arm moving](media/hero.gif)
-
 ---
 
 ## English
